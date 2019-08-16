@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hello World!"
-description: descrição: blah-blah-blah-blah-
+description: descrição-> blah-blah-blah-blah-
 date:   2019-08-15 00:30
 categories: jekyll update
 img: karna.jpg
