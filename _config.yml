@@ -5,7 +5,7 @@ url: http://devsontable.com/
 permalink: ':title/'
 
 markdown: kramdown
-baseurl: "/karna<@L1f0rn14"
+baseurl: "/"
 full-version: "http://webjeda.com/karna-full/"
 
 sass:
